@@ -19,14 +19,14 @@ export const actions: Actions[] = [
 		title: 'What is Kōyō Finance',
 		href: '#',
 		icon: InformationCircleIcon,
-		to: './protocol/introduction',
+		to: './',
 		text: `Learn about the core concepts of the Kōyō Finance.`
 	},
 	{
 		title: 'Smart contract overview',
 		href: '#',
 		icon: BookOpenIcon,
-		to: './protocol/reference/smart-contracts',
+		to: './',
 		text: `Learn about the architecture of the Kōyō Finance smart contracts.`
 	}
 ];
@@ -43,7 +43,7 @@ export const Guides = [
 	{
 		title: 'Implementing a Swap',
 		text: 'Start swapping from a smart contract in Solidity',
-		to: './protocol/guides/swaps/single-swaps'
+		to: './'
 	}
 ];
 
@@ -51,7 +51,7 @@ export const quick: Actions[] = [
 	{
 		title: 'Smart Contracts',
 		text: 'Start swapping from a smart contract',
-		to: './protocol/reference/smart-contracts'
+		to: './'
 	}
 ];
 
@@ -340,7 +340,7 @@ export default function Home() {
 				<hr />
 
 				<Row>
-					<Link style={{ textDecoration: 'none' }} href={'https://discord.gg/ybKVQUWb4s'}>
+					<Link style={{ textDecoration: 'none' }} href={'https://docs.koyo.finance/discord'}>
 						<CenterCard>
 							<ColouredDiscordLogo style={{ width: '48px', height: '48px' }} />
 							<div>
