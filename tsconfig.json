@@ -10,7 +10,8 @@
 		"noImplicitAny": false,
 		"paths": { "@site/*": ["./*"] },
 		"skipDefaultLibCheck": true,
-		"skipLibCheck": true
+		"skipLibCheck": true,
+		"esModuleInterop": true
 	},
 	"include": ["src", "docs"],
 	"exclude": []

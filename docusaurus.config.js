@@ -39,7 +39,8 @@ const config = {
 					editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/'
 				},
 				theme: {
-					customCss: require.resolve('./src/css/custom.css')
+					customCss: require.resolve('./src/css/custom.css'),
+					customCss2: require.resolve('./src/css/colours.css')
 				}
 			})
 		]
@@ -113,6 +114,18 @@ const config = {
 					}
 				],
 				copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`
+			},
+			colorMode: {
+				// "light" | "dark"
+				defaultMode: 'dark',
+
+				// Hides the switch in the navbar
+				// Useful if you want to support a single color mode
+				disableSwitch: false,
+
+				// Should we use the prefers-color-scheme media-query,
+				// using user system preferences, instead of the hardcoded defaultMode
+				respectPrefersColorScheme: true
 			},
 			prism: {
 				theme: lightCodeTheme,
