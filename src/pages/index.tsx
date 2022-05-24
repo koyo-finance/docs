@@ -38,14 +38,6 @@ export const GithubReferences: Actions[] = [
 
 export const Guides: Actions[] = [];
 
-export const QuickLinks: Actions[] = [
-	{
-		title: 'Smart Contracts',
-		text: 'Start swapping from a smart contract',
-		to: './'
-	}
-];
-
 const Container = styled.div`
 	display: flex;
 	flex-direction: column;
