@@ -15,7 +15,7 @@ export const ActionReferences: Actions[] = [
 		title: 'What is Kōyō Finance',
 		href: '#',
 		icon: InformationCircleIcon,
-		to: './',
+		to: './protocol/introduction',
 		text: 'Learn about the core concepts of the Kōyō Finance.'
 	},
 	{
