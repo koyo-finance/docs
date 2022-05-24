@@ -128,7 +128,9 @@ const config = {
 				theme: lightCodeTheme,
 				darkTheme: darkCodeTheme
 			}
-		})
+		}),
+
+	scripts: [{ src: 'https://plausible.io/js/script.js', defer: true, 'data-domain': 'docs.koyo.finance' }]
 };
 
 module.exports = config;
