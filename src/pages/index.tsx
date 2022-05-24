@@ -39,13 +39,7 @@ export const github = [
 	}
 ];
 
-export const Guides = [
-	{
-		title: 'Implementing a Swap',
-		text: 'Start swapping from a smart contract in Solidity',
-		to: './'
-	}
-];
+export const Guides: Actions[] = [];
 
 export const quick: Actions[] = [
 	{
@@ -303,19 +297,20 @@ export default function Home() {
 				</TwoRow>
 
 				<hr />
-				<TwoRow
+
+				{/* <TwoRow
 					style={{
 						gap: '48px',
 						alignItems: 'center'
 					}}
 				>
-					{/* <StyledImage
+					<StyledImage
 						style={{ maxHeight: '400px' }}
 						sources={{
 							light: useBaseUrl('/img/use.png'),
 							dark: useBaseUrl('/img/use2.png')
 						}}
-					/> */}
+					/>
 					<div>
 						<h2>Quick Links</h2>
 						<p></p>
@@ -337,9 +332,13 @@ export default function Home() {
 					</div>
 				</TwoRow>
 
-				<hr />
+				<hr /> */}
 
-				<Row>
+				<Row
+					style={{
+						marginBottom: '25px'
+					}}
+				>
 					<Link style={{ textDecoration: 'none' }} href={'https://docs.koyo.finance/discord'}>
 						<CenterCard>
 							<ColouredDiscordLogo style={{ width: '48px', height: '48px' }} />
@@ -359,7 +358,7 @@ export default function Home() {
 						</CenterCard>
 					</Link>
 
-					<Link style={{ textDecoration: 'none' }} href={'https://github.com/koyo-finance'}>
+					<Link style={{ textDecoration: 'none' }} href={'https://docs.koyo.finance/github'}>
 						<CenterCard>
 							<StyledGithubIcon>
 								<GithubLogo style={{ width: '48px' }} />{' '}

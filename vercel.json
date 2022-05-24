@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ph1p/vercel-vscode-schemes/master/schemas/vercel.json",
+    "redirects": [
+      {
+          "source": "/github",
+          "destination": "https://github.com/koyo-finance",
+          "permanent": true
+      },
+      {
+        "source": "/twitter",
+        "destination": "https://twitter.com/koyofinance",
+        "permanent": true
+      },
+      {
+        "source": "/discord",
+        "destination": "https://discord.gg/csSUzfShtn",
+        "permanent": true
+      },
+      {
+        "source": "/snapshot",
+        "destination": "https://vote.koyo.finance",
+        "permanent": true
+      }
+    ]
+  }
