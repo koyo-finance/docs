@@ -47,14 +47,15 @@ const config = {
 				title: 'Kōyō Finance Docs',
 				logo: {
 					alt: 'Kōyō Finance Logo',
-					src: 'img/logo.svg'
+					src: 'img/logo.svg',
+					srcDark: 'img/logo.svg'
 				},
 				items: [
-					{ to: '/blog', label: 'Blog', position: 'right' },
 					{
-						href: 'https://github.com/facebook/docusaurus',
+						href: 'https://docs.koyo.finance/github',
 						label: 'GitHub',
-						position: 'right'
+						position: 'right',
+						className: 'persistent'
 					}
 				]
 			},
@@ -113,6 +114,7 @@ const config = {
 				respectPrefersColorScheme: true
 			},
 			prism: {
+				additionalLanguages: ['solidity', 'python'],
 				theme: lightCodeTheme,
 				darkTheme: darkCodeTheme
 			}

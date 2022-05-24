@@ -219,7 +219,7 @@ export default function Home() {
 							alignItems: 'center'
 						}}
 					>
-						<h1 style={{ fontWeight: '600' }}> Welcome to the Kōyō Finance Docs</h1>
+						<h1 style={{ fontWeight: '600' }}> Welcome to the Kōyō Finance Documentation</h1>
 						<HideMedium>
 							<SearchBar />{' '}
 						</HideMedium>
