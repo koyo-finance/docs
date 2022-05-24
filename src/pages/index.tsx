@@ -1,47 +1,44 @@
 // @ts-expect-error Facebook /shrug
 import Link from '@docusaurus/Link';
-// @ts-expect-error Facebook /shrug
-import useBaseUrl from '@docusaurus/useBaseUrl';
 import styled from '@emotion/styled';
-import { BookOpenIcon, ChatIcon, CodeIcon, InformationCircleIcon } from '@heroicons/react/outline';
+import { BeakerIcon, ChatIcon, CodeIcon, InformationCircleIcon } from '@heroicons/react/outline';
 // @ts-expect-error Facebook /shrug
 import SearchBar from '@theme-original/SearchBar';
 // @ts-expect-error Facebook /shrug
 import Layout from '@theme/Layout';
-// @ts-expect-error Facebook /shrug
-import ThemedImage from '@theme/ThemedImage';
 import React, { SVGProps } from 'react';
 import { ArrowIcon, ColouredDiscordLogo, GithubLogo } from '../components/icons';
 import './styles.module.css';
 
-export const actions: Actions[] = [
+export const ActionReferences: Actions[] = [
 	{
 		title: 'What is Kōyō Finance',
 		href: '#',
 		icon: InformationCircleIcon,
 		to: './',
-		text: `Learn about the core concepts of the Kōyō Finance.`
+		text: 'Learn about the core concepts of the Kōyō Finance.'
 	},
 	{
-		title: 'Smart contract overview',
+		title: 'Smart contract deployments',
 		href: '#',
-		icon: BookOpenIcon,
-		to: './',
-		text: `Learn about the architecture of the Kōyō Finance smart contracts.`
+		icon: BeakerIcon,
+		to: './protocol/reference/deployments',
+		text: 'Find a list of all deployed Kōyō Finance contract addresses and references to their code.'
 	}
 ];
 
-export const github = [
+export const GithubReferences: Actions[] = [
 	{
 		title: 'sdk',
 		href: 'https://github.com/koyo-finance/sdk',
-		icon: CodeIcon
+		icon: CodeIcon,
+		text: ''
 	}
 ];
 
 export const Guides: Actions[] = [];
 
-export const quick: Actions[] = [
+export const QuickLinks: Actions[] = [
 	{
 		title: 'Smart Contracts',
 		text: 'Start swapping from a smart contract',
@@ -231,8 +228,8 @@ export default function Home() {
 							dark: useBaseUrl('/img/grow2.png')
 						}}
 					/> */}
-					<Row>
-						{actions.map((action) => (
+					<TwoRow>
+						{ActionReferences.map((action) => (
 							<Link style={{ textDecoration: 'none' }} to={action.to}>
 								<ShadowCard key={action.title}>
 									<TopSection>
@@ -249,7 +246,7 @@ export default function Home() {
 								</ShadowCard>
 							</Link>
 						))}
-					</Row>
+					</TwoRow>
 				</DocsHeader>
 
 				<TwoRow
@@ -280,7 +277,7 @@ export default function Home() {
 					<div>
 						<h2>Developer Links</h2>
 						<p>The Kōyō Finance codebase is comprised of an ecosystem of open source components.</p>
-						{github.map((action) => (
+						{GithubReferences.map((action) => (
 							<Link style={{ textDecoration: 'none' }} href={action.href}>
 								<Card key={action.title} style={{ marginBottom: '1rem' }}>
 									<LinkRow>

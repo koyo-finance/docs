@@ -8,10 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
 	title: 'Kōyō Finance',
 	tagline: 'Documentation and Guides',
+
 	url: 'https://docs.koyo.finance',
 	baseUrl: '/',
+
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
+
 	favicon: 'img/favicon.ico',
 
 	i18n: {
@@ -52,6 +55,12 @@ const config = {
 					srcDark: 'img/logo.svg'
 				},
 				items: [
+					{
+						to: '/protocol/introduction',
+						label: 'V1',
+						position: 'left',
+						className: 'persistent'
+					},
 					{
 						href: 'https://docs.koyo.finance/github',
 						label: 'GitHub',
