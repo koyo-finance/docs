@@ -60,7 +60,51 @@ const config = {
 			},
 			footer: {
 				// style: 'dark',
-				links: []
+				links: [
+					{
+						title: 'Developers',
+						items: [
+							{
+								label: '#dev-chat',
+								href: 'https://docs.koyo.finance/discord'
+							}
+						]
+					},
+					{
+						title: 'Ecosystem',
+						items: [
+							{
+								label: 'Home',
+								href: 'https://koyo.finance/'
+							},
+							{
+								label: 'Swap',
+								href: 'https://koyo.finance/swap'
+							},
+							{
+								label: 'Analytics',
+								href: 'https://info.koyo.finance'
+							}
+						]
+					},
+					{
+						title: 'Community',
+						items: [
+							{
+								label: 'Snapshot',
+								href: 'https://docs.koyo.finance/snapshot'
+							},
+							{
+								label: 'Discord',
+								href: 'https://docs.koyo.finance/discord'
+							},
+							{
+								label: 'Twitter',
+								href: 'https://docs.koyo.finance/twitter'
+							}
+						]
+					}
+				]
 			},
 			colorMode: {
 				// "light" | "dark"
