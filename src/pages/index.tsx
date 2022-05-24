@@ -207,7 +207,7 @@ const HideMedium = styled.div`
 
 export default function Home() {
 	return (
-		<Layout title={`Kōyō Finance Docs`} description="Technical Documentation For The Kōyō Finance">
+		<Layout title={`Kōyō Finance Docs`} description="Technical Documentation For Kōyō Finance">
 			<Container>
 				<DocsHeader>
 					<div
