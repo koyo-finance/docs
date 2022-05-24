@@ -1,5 +1,5 @@
 ---
-id: guide
+id: swap
 title: Swap
 sidebar_position: 1
 ---
@@ -9,7 +9,7 @@ One of main functions of Kōyō Finance is swaping your tokens.
 We currently support only four stable coins from our 4pool:
 
 -   Tether USD
--   USD Coi
+-   USD Coin
 -   FRAX
 -   DAI Stablecoin.
 
