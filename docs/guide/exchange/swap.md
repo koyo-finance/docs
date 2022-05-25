@@ -94,7 +94,8 @@ Click on the "SWAP" button will open your wallet and ask for **gas fee confirmat
 
 After confirming the gas fee, transaction will go through.
 
-That's it! Check your balance and enjoy your freshly swapped tokens.
+That's it! Check your wallet
+and enjoy your freshly swapped tokens.
 
 ## Problems
 
