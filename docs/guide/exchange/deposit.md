@@ -72,8 +72,8 @@ _Once you confirm the fee, click back into the application or click on approve b
 
 After you have confirmed the transaction, the button now says "Deposit".
 
-Clicking on the button will once again open your wallet and ask you to approve the gas fee, so that the transaction can go thruough successfuly.
+Clicking on the button will once again open your wallet and ask you to approve the gas fee, so that the transaction can go thruough and you'll get your LP tokens successfuly.
 
 <img src="/img/guide/swap/deposit-gasFee.png" alt="Approving transaction fee" width="900"/>
 
-That's it! You now have your LP tokens that represent your poition in the pool (_you can withdraw _).
+That's it! You now have your LP tokens that represent your poition in the pool (_you can withdraw them at any time_).
