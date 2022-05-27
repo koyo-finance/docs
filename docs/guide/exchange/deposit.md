@@ -12,7 +12,7 @@ You can deposit your assets on _[koyo.finance/deposit](https://koyo.finance/depo
 
 First you are presented with the selection pool screen.
 
-<img src="/img/guide/swap/deposit.png" alt="Deposit page" width="480" /> <img src="/img/guide/swap/pool-select.png" alt="Deposit page" width="520" />
+<img src="/img/guide/swap/deposit.png" alt="Deposit page" width="480" /> <img src="/img/guide/swap/pool-select.png" alt="Pool odal open" width="520" />
 
 Clicking on "CHOOSE LIQUIDITY POOL +" button will open a modal, where you'll see all **availible pools** on Kōyō Finance.
 
@@ -26,19 +26,19 @@ Once you have selected the desired pool, you want to set the amount of each toke
 
 Depending on the chosen pool, you should see something similar to what you see on the picture down below. For this example I am using the 4pool.
 
-<img src="/img/guide/swap/pool-tokens.png" alt="Deposit page" width="600" />
+<img src="/img/guide/swap/pool-tokens.png" alt="Tokens" width="600" />
 
 ### Balance
 
 If your wallet is connected the **balance** of tokens is displayed underneath each token.
 
-<img src="/img/guide/swap/deposit-balance.png" alt="Deposit page" width="700" />
+<img src="/img/guide/swap/deposit-balance.png" alt="Balance" width="700" />
 
 ### Token amount
 
 Setting the amount is just a matter of typing in the amount of any token you want to deposit.
 
-<img src="/img/guide/swap/deposit-amountSet.png" alt="Deposit page" width="700" />
+<img src="/img/guide/swap/deposit-amountSet.png" alt="set amount" width="700" />
 
 There are no rules to depositing. You can deposit any amount of only one token or all of them, doesn't matter if you deposit 100 of first token and 0,2 of the other tokens. Deposit any amount of any token you wish.
 
@@ -48,11 +48,11 @@ If your wallet is already connected, the "DEPOSIT" or "APPROVE - _[token name]_"
 
 When you choose a wallet, your wallet application will most likely open your wallet or account and ask for **confirmation to connect** to Kōyō Finance.
 
-<img src="/img/guide/swap/deposit-connectWallet.png" alt="Deposit page" width="510" /> <img src="/img/guide/swap/deposit-walletPoppup.png" alt="Deposit page" width="450" />
+<img src="/img/guide/swap/deposit-connectWallet.png" alt="Connect wallet buttons" width="510" /> <img src="/img/guide/swap/deposit-walletPoppup.png" alt="Wallet poppup" width="450" />
 
 Second "Connect Wallet" button is always shown in **top right** of the page (desktop) or in the **navigation** (mobile).
 
-## Depositing
+## Deposit
 
 When you have chosen the pool, amount of assets and connected your wallet, you can deposits the chosen amount of assets.
 
@@ -74,6 +74,14 @@ After you have confirmed the transaction, the button now says "Deposit".
 
 Clicking on the button will once again open your wallet and ask you to approve the gas fee, so that the transaction can go thruough and you'll get your LP tokens successfuly.
 
-<img src="/img/guide/swap/deposit-gasFee.png" alt="Approving transaction fee" width="900"/>
+## LP tokens
+
+By depositing assets in th pool you recieve **LP tokens**. LP tokens represent your position in the pool and will earn you
+
+<img src="/img/guide/swap/deposit-gasFee.png" alt="Approving gas fee" width="900"/>
 
 That's it! You now have your LP tokens that represent your poition in the pool (_you can withdraw them at any time_).
+
+## Problems
+
+Keep having trouble depositing your assets in any of our pools? Please report the issue on [Twitter](https://twitter.com/KoyoFinance) or our [Discord Server](https://docs.koyo.finance/discord).
