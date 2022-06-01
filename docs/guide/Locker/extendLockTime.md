@@ -1,5 +1,5 @@
 ---
 id: ExtendLockTime
 title: Extend Lock Time
-sidebar_position: 2
+sidebar_position: 3
 ---

@@ -8,7 +8,7 @@ To use the locker, you first have to lock your KYO tokens.
 
 So let's quickly go through the locking process, since it's fairly simple.
 
-First you'll have to navigate to the actual locking page [koyo.finance/lock]("https://koyo.finance/lock").
+First you'll have to navigate to the actual locking page [koyo.finance/lock](https://koyo.finance/lock).
 
 You should be presented with something similar to what you see down below.
 
@@ -71,4 +71,4 @@ Beware that you can only have **one locker per account/address**, so if you want
 
 ## Problems
 
-Keep having trouble locking your KYO? Please report the issue on [Twitter](https://twitter.com/KoyoFinance) or our [Discord Server](https://docs.koyo.finance/discord).
+Having trouble locking your KYO? Please report the issue on [Twitter](https://twitter.com/KoyoFinance) or our [Discord Server](https://docs.koyo.finance/discord).
