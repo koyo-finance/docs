@@ -6,13 +6,13 @@ sidebar_position: 1
 
 To use the locker, you first have to lock your KYO tokens.
 
-So let's go through the locking process, since it's fairly simple.
+So let's quickly go through the locking process, since it's fairly simple.
 
 First you'll have to navigate to the actual locking page [koyo.finance/lock]("https://koyo.finance/lock").
 
 You should be presented with something similar to what you see down below.
 
-<img src="/img/guide/locker/lock.png" alt="Lock page" />
+<img src="/img/guide/locker/lock.png" alt="Lock page" width="800" />
 
 ## Connect your wallet
 
@@ -30,7 +30,7 @@ If you've connected your wallet successfuly, your KYO and veKYO balance should b
 
 To start the locking process you're going to scroll down to "Lock KYO tokens" window.
 
-You can see that there are 2 inputs yoou have to make. Amount of KYO tokens to lock and select the lock duration of your locker.
+You can see that there are 2 inputs yoou have to make. **Amount** of KYO tokens to lock and select the **lock duration** of your locker.
 
 <img src="/img/guide/locker/locker-inputs.png" alt="Locker inputs" width="500" />
 
@@ -38,7 +38,7 @@ You can see that there are 2 inputs yoou have to make. Amount of KYO tokens to l
 
 Setting the amount you want to lock couldn't be simpler.
 
-Just input the number of tokens you want to lock. Beware that setting a higher amount than you have will result in a failed transaction and you'll lose eth that you paid for gas.
+Just input the **number of tokens** you want to lock. Beware that setting a higher amount than you have will result in a failed transaction and you'll lose eth that you paid for gas.
 
 ### Lock duration
 
@@ -61,4 +61,14 @@ Once you click on approve, your wallet will ask you for transaction conformation
 
 You are finally ready to create your first locker.
 
-Click on a "LOCK" button and confirm the gas fee in your wallet
+Click on a "LOCK" button and confirm the gas fee in your wallet.
+
+<img src="/img/guide/locker/locker-lock.png" alt="Approve KYO" width="800" />
+
+When transaction goes through, your locker will be created on your account.
+
+Beware that you can only have **one locker per account/address**, so if you want to have multiple lockers you should **create multiple accounts** in your wallet.
+
+## Problems
+
+Keep having trouble locking your KYO? Please report the issue on [Twitter](https://twitter.com/KoyoFinance) or our [Discord Server](https://docs.koyo.finance/discord).
