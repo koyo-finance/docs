@@ -62,6 +62,8 @@ If your wallet is already connected, the "SWAP" or "APPROVE - _[token name]_" bu
 
 When you choose a wallet, your wallet application will most likely open your wallet or account and ask for **confirmation to connect** to Kōyō Finance.
 
+To use Kōyō Finance, you have to be on **Boba Network**.
+
 <img src="/img/guide/swap/connectWallet.png" alt="Connect wallet buttons" width="560"/> <img src="/img/guide/swap/wallet-popup.png" alt="Connect wallet - modal" width="500"/>
 
 ######

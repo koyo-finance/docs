@@ -48,6 +48,8 @@ If your wallet is already connected, the "DEPOSIT" or "APPROVE - _[token name]_"
 
 When you choose a wallet, your wallet application will most likely open your wallet or account and ask for **confirmation to connect** to Kōyō Finance.
 
+To use Kōyō Finance, you have to be on **Boba Network**.
+
 <img src="/img/guide/swap/deposit-connectWallet.png" alt="Connect wallet buttons" width="510" /> <img src="/img/guide/swap/deposit-walletPoppup.png" alt="Wallet poppup" width="450" />
 
 Second "Connect Wallet" button is always shown in **top right** of the page (desktop) or in the **navigation** (mobile).
