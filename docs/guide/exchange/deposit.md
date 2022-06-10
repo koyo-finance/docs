@@ -14,7 +14,7 @@ First you are presented with the selection pool screen.
 
 <img src="/img/guide/swap/deposit.png" alt="Deposit page" width="480" /> <img src="/img/guide/swap/pool-select.png" alt="Pool odal open" width="520" />
 
-Clicking on "CHOOSE LIQUIDITY POOL +" button will open a modal, where you'll see all **availible pools** on Kōyō Finance.
+Clicking on "CHOOSE LIQUIDITY POOL +" button will open a modal, where you'll see all **available pools** on Kōyō Finance.
 
 To choose the pool, just **click on the desired pool** shown in the pool list.
 

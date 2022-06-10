@@ -4,7 +4,7 @@ title: Swap
 sidebar_position: 1
 ---
 
-Main function of Kōyō Finance is **swaping** your tokens.
+Main function of Kōyō Finance is **swapping** your tokens.
 
 We currently support only four stable coins from our **4pool**:
 
@@ -32,7 +32,7 @@ We have an option to select tokens. Clicking on a current token will open a **mo
 
 When the token is chosen, you'll be able to select a token to swap **to**.
 
-If you open the token list and see multiple tokens with the same name (USDT, USDT, USDT), don't worry. The tokens are not exeactly the same, because they are located in different **pools**.
+If you open the token list and see multiple tokens with the same name (USDT, USDT, USDT), don't worry. The tokens are not exactly the same, because they are located in different **pools**.
 
 Pool of the token is shown on the right side of the token list, so you can decide from which pool to get your tokens (each pool will have different amount liquidity).
 
@@ -101,7 +101,7 @@ and enjoy your freshly swapped tokens.
 
 ## Problems
 
-Transaction should be successfull except if you:
+Transaction should be successful except if you:
 
 -   tried to swap larger amount of tokens than you own
 -   don't have enough ETH for gas fee (beware that gas fee is usually a tad more than specified in confirmation because [BOBA Network](https://boba.network/) bumps it up for a few %)
