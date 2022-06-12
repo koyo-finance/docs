@@ -20,7 +20,7 @@ You can see that the current lock time is displayed, but beware that the lock **
 
 To select the lock duration you have 2 options:
 
--   choose one of multiple predifined values
+-   choose one of multiple predefined values
 -   choose a custom date in the datepicker
 
 Keep in mind that you **cannot set** the lock duration **shorter than the one that is already set**, so setting a lock period that's shorter will result in a failed transaction, so you'll lose the eth you've paid for gas.
