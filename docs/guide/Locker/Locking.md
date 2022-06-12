@@ -48,7 +48,7 @@ _Beware that setting a higher amount than you have will result in a failed trans
 
 To select the lock duration you have 2 options:
 
--   choose one of multiple predifined values
+-   choose one of multiple predefined values
 -   choose a custom date in the datepicker
 
 _Keep in mind that the minimum lock duration is 1 week, so setting a lock period shorter than 2 weeks will result in a failed transaction, so you'll lose the eth you've paid for gas._
@@ -57,7 +57,7 @@ _Keep in mind that the minimum lock duration is 1 week, so setting a lock period
 
 When you set the amount and lock period of your locker you are going to be asked to **approve** the KYO tokens. If you don't see a "Approve - _KYO_" button an it says "LOCK" you can skip this section and proceed to [Create locker](#create-locker) section.
 
-Once you click on approve, your wallet will ask you for transaction confirmation. Once transaction goes through, wait for the button to say "LOCK" and proceed with the proces.
+Once you click on approve, your wallet will ask you for transaction confirmation. Once transaction goes through, wait for the button to say "LOCK" and proceed with the process.
 
 <img src="/img/guide/locker/locker-approve.png" alt="Approve KYO" width="500" />
 
