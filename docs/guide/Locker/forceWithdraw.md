@@ -30,7 +30,7 @@ By pressing "FORCE WITHDRAW" button a popup/modal should appear, asking you if y
 
 By pressing "FORCE WITHDRAW" in the modal, a transaction confirmation is going to open up in your wallet.
 
-When you confirm the transaction and it goes through successfuly, you should see the 20% of your locked KYO appear in your wallet.
+When you confirm the transaction and it goes through successfully, you should see the 20% of your locked KYO appear in your wallet.
 
 ## Problems
 
