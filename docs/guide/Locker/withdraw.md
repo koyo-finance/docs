@@ -6,15 +6,15 @@ sidebar_position: 4
 
 When your lock time has expired, you probably want to withdraw your assets back into your wallet.
 
-To your luck, this process couldn't be easier.
+You are in luck, this process couldn't be easier.
 
 First proceed to [koyo.finance/lock](https://koyo.finance/lock) page.
 
-To be able to withdraw your assets, you must first have your wallet connected to Kōyō Finance. however we won't go through the connect wallet process as we already did in [Lock](http://localhost:3000/protocol/guide/Locker/Lock#connect-your-wallet) section of the guide.
+To be able to withdraw your assets, you must first have your wallet connected to Kōyō Finance. However we won't go through the connect wallet process as we already did in [Lock](http://localhost:3000/protocol/guide/Locker/Lock#connect-your-wallet) section of the guide.
 
 ## Withdrawing
 
-There is really no need to explain how this will look like. You'll se a bick "WITHDRAW KYO" button.
+There is really no need to explain how this will look like. You'll see a big "WITHDRAW KYO" button.
 
 When you click it, a confrmation should appear in your wallet.
 
