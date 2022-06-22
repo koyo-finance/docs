@@ -10,7 +10,7 @@ You do that on [koyo.finance/lock](https://koyo.finance/lock) page.
 
 To be able to increase amount in your lock, you must first have your wallet connected to Kōyō Finance. however we won't go through the connect wallet process as we already did in [Lock](http://localhost:3000/protocol/guide/Locker/Lock#connect-your-wallet) section of the guide.
 
-The "Lock KYO tokens" window looks a bit different now that your locker actually exists. It should look something like that.
+The "Lock KYO tokens" window looks a bit different now that your locker actually exists. It should look something like this:-
 
 <img src="/img/guide/locker/locker-addAmount.png" alt="Locker - Add Amount" width="500" />
 
