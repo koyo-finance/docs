@@ -66,4 +66,4 @@ Enjoy your freshly transfered assets.
 
 ## Problems
 
-Expiriencing any problems with withdrawing your assets? Please report the issue on [Twitter](https://twitter.com/KoyoFinance) or our [Discord Server](https://docs.koyo.finance/discord).
+Experiencing any problems with withdrawing your assets? Please report the issue on [Twitter](https://twitter.com/KoyoFinance) or our [Discord Server](https://docs.koyo.finance/discord).
