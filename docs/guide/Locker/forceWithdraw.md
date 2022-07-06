@@ -16,17 +16,17 @@ Are you really sure you want to do this?
 
 _Beware that force withdrawing your assets will result in a 80% loss. You will get only 20% of your locked KYO back, other 80% will be burned._
 
-<img src="/img/guide/Locker/penaltyGraph.png" alt="Force withdraw KYO" width="500" />
+<img src="/img/guide/locker/penaltyGraph.png" alt="Force withdraw KYO" width="500" />
 
 ## Withdrawing
 
 If yes, than you should see a red "FORCE WITHDRAW" button.
 
-<img src="/img/guide/Locker/forceWithdraw.png" alt="Force withdraw KYO" width="500" />
+<img src="/img/guide/locker/forceWithdraw.png" alt="Force withdraw KYO" width="500" />
 
 By pressing "FORCE WITHDRAW" button a popup/modal should appear, asking you if you are sure to force withdraw them.
 
-<img src="/img/guide/Locker/forceWithdrawWarning.png" alt="Force withdraw KYO modal" width="500" />
+<img src="/img/guide/locker/forceWithdrawWarning.png" alt="Force withdraw KYO modal" width="500" />
 
 By pressing "FORCE WITHDRAW" in the modal, a transaction confirmation is going to open up in your wallet.
 
