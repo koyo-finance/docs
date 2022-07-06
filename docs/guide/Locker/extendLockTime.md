@@ -12,7 +12,7 @@ To be able to extend the duration of your lock, you must first have your wallet 
 
 On the page you should see something similar to this.
 
-<img src="/img/guide/locker/locker-extendTime.png" alt="Extend lock time" width="500" />
+<img src="/img/guide/locker/extendTime.png" alt="Extend lock time" width="500" />
 
 You can see that the current lock time is displayed, but beware that the lock **duration is set in weeks** and when you set it, it might be a bit shorter than shown in the date picker (_Few days might be missing_).
 
