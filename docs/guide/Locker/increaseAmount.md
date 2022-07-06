@@ -12,7 +12,7 @@ To be able to increase amount in your lock, you must first have your wallet conn
 
 The "Lock KYO tokens" window looks a bit different now that your locker actually exists. It should look something like this:-
 
-<img src="/img/guide/locker/locker-addAmount.png" alt="Locker - Add Amount" width="500" />
+<img src="/img/guide/locker/addAmount.png" alt="Locker - Add Amount" width="500" />
 
 You can see the stats about your current locker are shown. The amount of KYO you have locked and end of the lock period.
 

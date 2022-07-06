@@ -34,7 +34,7 @@ To start the locking process you're going to scroll down to "Lock KYO tokens" wi
 
 You can see that there are 2 inputs you have to fill. **Amount** of KYO tokens to lock and select the **lock duration** of your locker.
 
-<img src="/img/guide/locker/locker-inputs.png" alt="Locker inputs" width="500" />
+<img src="/img/guide/locker/inputs.png" alt="Locker inputs" width="500" />
 
 ### Setting amount
 
@@ -59,7 +59,7 @@ When you set the amount and lock period of your locker you are going to be asked
 
 Once you click on approve, your wallet will ask you for transaction confirmation. Once transaction goes through, wait for the button to say "LOCK" and proceed with the process.
 
-<img src="/img/guide/locker/locker-approve.png" alt="Approve KYO" width="500" />
+<img src="/img/guide/locker/approve.png" alt="Approve KYO" width="500" />
 
 ### Create locker
 
@@ -67,7 +67,7 @@ You are finally ready to create your first locker.
 
 Click on a "LOCK" button and confirm the gas fee in your wallet.
 
-<img src="/img/guide/locker/locker-lock.png" alt="Approve KYO" width="800" />
+<img src="/img/guide/locker/locker.png" alt="Approve KYO" width="800" />
 
 When transaction goes through, your locker will be created on your account.
 
