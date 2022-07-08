@@ -6,7 +6,7 @@ sidebar_position: 1
 
 On farms page you'll be able to stake your LP tokens into gauges and earn rewards in return.
 
-_Your rewards will depend on the amount of votes that your gauge will recieve from the users._
+_Your rewards will depend on the amount of votes, that your gauge will recieve from the users._
 
 First you'll have to navigate to the actual farms page [koyo.finance/kyo/farms](https://koyo.finance/kyo/farms).
 
@@ -14,7 +14,7 @@ First you'll have to navigate to the actual farms page [koyo.finance/kyo/farms](
 
 ## Connect your wallet
 
-If your wallet is already connected, the "APPROVE - ..." or "Deposit LP tokens" button will be shown, so you can skip this and proceed to [Locking](#locking). Otherwise you will be presented with "Connect Wallet" button, which will allow you to connect your desired wallet to Kōyō Finance.
+If your wallet is already connected, the "APPROVE - _pool name_" or "Deposit LP tokens" button will be shown, so you can skip this and proceed to [Approving](#approving) or [Depositing](#depositing). Otherwise you will be presented with "Connect Wallet" button, which will allow you to connect your desired wallet to Kōyō Finance.
 
 When you choose a wallet, your wallet application will most likely open your wallet or account and ask for **confirmation to connect** to Kōyō Finance.
 
@@ -26,7 +26,7 @@ Second "Connect Wallet" button is always shown in **top right** of the page (des
 
 ## Approving
 
-To approve your LP tokens click on the "APPROVE - ..." button.
+To approve your LP tokens click on the "APPROVE - _pool name_" button.
 
 <img src="/img/guide/kyo/approveLPtokens.png" alt="Wallet poppup" width="450" />
 
@@ -38,7 +38,7 @@ To deposit your LP tokens click on the "DEPOSIT LP TOKENS" button.
 
 You'll be asked to confirm the transaction in you wallet.
 
-_Beware that you'll always deposit **ALL** of your LP tokens_
+_Beware that you'll always deposit **ALL** of your LP tokens._
 
 Once you've deposited your LP tokens, you should see your the "Claim" and "Withdraw LP tokens" buttons appear.
 

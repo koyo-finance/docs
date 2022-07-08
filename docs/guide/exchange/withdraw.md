@@ -1,7 +1,7 @@
 ---
 id: withdraw
 title: Withdraw
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 When you want to get your deposited assets back, you can always withdraw them.

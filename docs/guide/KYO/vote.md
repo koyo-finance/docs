@@ -26,17 +26,29 @@ You set the weight on the input field that has "0 %" as a place holder and a "MA
 
 <img src="/img/guide/kyo/voteWeight.png" alt="Set vote weight" width="800" />
 
+## Connect your wallet
+
+If your wallet is already connected, the "Submit vote -- _gauge name_" button will be shown, so you can skip this and proceed to [Submitting vote](#submitting-vote). Otherwise you will be presented with "Connect Wallet" button, which will allow you to connect your desired wallet to Kōyō Finance.
+
+When you choose a wallet, your wallet application will most likely open your wallet or account and ask for **confirmation to connect** to Kōyō Finance.
+
+To use Kōyō Finance, you have to be on **Boba Network**.
+
+<img src="/img/guide/swap/deposit-walletPoppup.png" alt="Wallet poppup" width="450" />
+
+Second "Connect Wallet" button is always shown in **top right** of the page (desktop) or in the **navigation** (mobile).
+
 ## Submitting vote
 
-To submit your vote t the gauge you just click on the "submit vote - _gauge name_" button.
+To submit your vote to the gauge, you just click on the "submit vote - _gauge name_" button.
 
 <img src="/img/guide/kyo/submitVote.png" alt="Submit Vote" width="800" />
 
 ## Claiming emissions
 
-Once the gauge you've voted for and also have deposited LP tokens into it, starts claiming emissions, you can claim them in the table above a gauge selection button.
+Once the gauge, you've voted for and also deposited your LP tokens into it, starts claiming emissions, you can claim them in the table above the gauge selection button.
 
-You can claim emissions that the gauge has claimed by pressing the claim button which has an amount of KYO claimable displayed on it.
+You can claim emissions that the gauge has claimed by pressing the claim button, which has an amount of claimable KYO displayed on it.
 
 <img src="/img/guide/kyo/claiming.png" alt="Claiming emissions" width="800" />
 
