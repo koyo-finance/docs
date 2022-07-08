@@ -1,5 +1,5 @@
 ---
-id: Farms
+id: farms
 title: Farms
 sidebar_position: 1
 ---
