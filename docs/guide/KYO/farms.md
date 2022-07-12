@@ -6,7 +6,7 @@ sidebar_position: 1
 
 On farms page you'll be able to stake your LP tokens into gauges and earn rewards in return.
 
-_Your rewards will depend on the amount of votes, that your gauge will recieve from the users._
+_Your rewards will depend on the amount of votes, that your gauge will receive from the users._
 
 First you'll have to navigate to the actual farms page [koyo.finance/kyo/farms](https://koyo.finance/kyo/farms).
 
