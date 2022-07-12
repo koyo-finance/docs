@@ -12,7 +12,7 @@ First you'll have to navigate to the Vote page [koyo.finance/kyo/gauges](https:/
 
 ## Selecting a gauge
 
-Once you click on a "Slect a gauge +" button, a modal with guges will open.
+Once you click on a "Select a gauge +" button, a modal with guges will open.
 
 Select a gauge by clicking on it.
 
@@ -52,11 +52,11 @@ You can claim emissions that the gauge has claimed by pressing the claim button,
 
 <img src="/img/guide/kyo/claiming.png" alt="Claiming emissions" width="800" />
 
-## Reseting vote weight
+## Resetting vote weight
 
 To reset the amount of vote delegated to a gauge, you have to press the "RESET" button.
 
-<img src="/img/guide/kyo/resetingVote.png" alt="Reseting vote weight" width="800" />
+<img src="/img/guide/kyo/resetingVote.png" alt="Resetting vote weight" width="800" />
 
 ## Problems
 
