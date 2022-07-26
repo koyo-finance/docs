@@ -56,6 +56,12 @@ There is also an option to input the desired **amount** of the **token you get**
 
 <img src="/img/guide/swap/token1-amount.png" alt="Token one amount" width="490"/> <img src="/img/guide/swap/token2-amount.png" alt="Token two amount" width="500"/>
 
+## Auto router
+
+When you set the amount, you should see an auto router text appear above the swap button. If you click on the auto router text, an image will appear. Image represents the path that token must take, for you to recieve the calculated amount of the token you are swapping to.
+
+<img src="/img/guide/swap/token1-amount-auto-router.png" alt="Token one amount" width="550"/> <img src="/img/guide/swap/auto-router.png" alt="Token two amount" width="450"/>
+
 ## Connect your wallet
 
 If your wallet is already connected, the "SWAP" or "APPROVE - _[token name]_" button will be shown, so you can skip this and proceed to [Swap](#swap). Otherwise you will be presented with "Connect Wallet" button, which will allow you to connect your desired wallet to Kōyō Finance.
